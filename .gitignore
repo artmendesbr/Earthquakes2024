@@ -1,0 +1,13 @@
+.DS_Store
+data/query (1).csv
+data/query (2).csv
+data/query.csv
+map/ne_110m_admin_1_states_provinces.cpg
+map/ne_110m_admin_1_states_provinces.dbf
+map/ne_110m_admin_1_states_provinces.prj
+map/ne_110m_admin_1_states_provinces.README.html
+map/ne_110m_admin_1_states_provinces.sbn
+map/ne_110m_admin_1_states_provinces.sbx
+map/ne_110m_admin_1_states_provinces.shp
+map/ne_110m_admin_1_states_provinces.shx
+map/ne_110m_admin_1_states_provinces.VERSION.txt
